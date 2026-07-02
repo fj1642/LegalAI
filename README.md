@@ -190,7 +190,7 @@ Being upfront about these, because a legal tool that oversells itself is worse t
 
 ## Built by
 
-Farhaan Uddin Jabri & Aryan Mishra — B.Tech CSE (AI/ML), SRM Institute of Science and Technology, Delhi-NCR.
+Farhaan Uddin Jabri — B.Tech CSE (AI/ML), SRM Institute of Science and Technology, Delhi-NCR.
 
 Built as a proof-of-concept, not legal advice. If your situation actually matters, talk to a real lawyer — this is meant to help you walk into that conversation informed, not to replace it.
 
